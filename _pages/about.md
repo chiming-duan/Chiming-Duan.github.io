@@ -26,7 +26,7 @@ redirect_from:
 - *2025.05*: &nbsp;🎉🎉 My master's thesis was recommended as an outstanding master's thesis by the review experts.
 - *2025.01*: &nbsp;🎉🎉 Our paper *Enhancing web service* have been accepted by **WWW'25**.
 - *2025.01*: &nbsp;🎉🎉 Our paper *Weakly-supervised* has been accepted by **ICSE'25**.
-- *2025.12*: &nbsp;🎉🎉 Our work was reported by [Alibaba Cloud’s official WeChat account](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg).
+- *2024.12*: &nbsp;🎉🎉 Our work was reported by [Alibaba Cloud’s official WeChat account](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg).
 - *2024.11*: &nbsp;🎉🎉 Our paper *FAMOS* has been accepted by **ICSE'25** without Major Reversion (66/662). 
 - *2024.03*: &nbsp;🎉🎉 Our paper *SOIL* has been accepted by **WWW'24** (Oral Presentation).
 # 📝 Publications 
