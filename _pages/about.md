@@ -85,7 +85,7 @@ redirect_from:
 - *2022* Beijing Outstanding Graduate. 
 
 # 📖 Educations
-- *2025.06 - Present*, Ph.D. student, Peking University. 
+- *2025.09 - Present*, Ph.D. student, Peking University. 
 - *2022.09 - 2025.06*, Master degree, Peking University.
 - *2018.09 - 2022.06*, Bachelor degree, Beijing University of Posts and Telecommunications. 
 
