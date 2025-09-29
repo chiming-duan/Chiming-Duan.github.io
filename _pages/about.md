@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📖 I am a first-year Ph.D. student at the School of Software and Microelectronics, Peking University, under the supervision of Prof. Ying Li. I received my Master's degree in Software Engineering from the same institution in 2025. Previously, I obtained my Bachelor's degree in Computer Science and Technology at Beijing University of Posts and Telecommunications in 2018. Currently, his research is dedicated to integrating Artificial Intelligence (AI) into the software engineering lifecycle, with the objective of reducing the required manual effort.
+📖 I am a first-year Ph.D. student at the School of Software and Microelectronics, Peking University, under the supervision of Prof. Ying Li. I received my Master's degree in Software Engineering from the same institution in 2025. Previously, I obtained my Bachelor's degree in Computer Science and Technology at Beijing University of Posts and Telecommunications in 2018. Currently, my research is dedicated to integrating Artificial Intelligence (AI) into the software engineering lifecycle, with the objective of reducing the required manual effort.
 
 💡 My specific research interests include AIOps, encompassing anomaly detection and root cause analysis for both software and AI/LLM systems.
 
