@@ -38,10 +38,11 @@ redirect_from:
 - 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>CollaborLog: Efficient-Generalizable Log Anomaly Detection via Large-Small Model Collaboration in Software Evolution.</span>
   - <span>Pei Xiao\*, **Chiming Duan\***, Minghua He\*, Tong Jia, Yifan Wu, Jing Xu, Gege Gao, Lingzhe Zhang, Weijie Hong, Ying Li and Gang Huang.</span>
 
-- 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>ICL-Bandit: Relevance Labeling in Advertisement Recommendation Systems via LLM.</span>
+- 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>United We Stand: Towards End-to-End Log-based Fault Diagnosis 
+  via Interactive Multi-Task Learning.</span>
   - <span>Minghua He\*, **Chiming Duan\***, Pei Xiao\*, Tong Jia, Siyu Yu, Lingzhe Zhang, Weijie Hong, Jing Han, Yifan Wu, Ying Li and Gang Huang.</span>
 
-- 📑 <span style="color: #3b82f6;">*EMNLP-Findings'25*</span>,  <span>Lu Wang, **Chiming Duan**, Pu Zhao, Fangkai Yang, Yong Shi, Xuefeng Luo, Bingjing Xu, Weiwei Deng, Qingwei Lin and Dongmei Zhang.</span>
+- 📑 <span style="color: #3b82f6;">*EMNLP-Findings'25*</span>,  <span>ICL-Bandit: Relevance Labeling in Advertisement Recommendation Systems via LLM.</span>
   - <span>Lu Wang, **Chiming Duan**, Pu Zhao, Fangkai Yang, Yong Shi, Xuefeng Luo, Bingjing Xu, Weiwei Deng, Qingwei Lin and Dongmei Zhang.</span>
 
 - 📑 <span style="color: #3b82f6;">*FSE-IVR'25*</span>,  <span>Agentfm: Role-aware failure management for distributed databases with llm-driven multi-agents.</span>
