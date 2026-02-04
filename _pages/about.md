@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-📖 I am a first-year Ph.D. student at the School of Software and Microelectronics, Peking University, under the supervision of Prof. Ying Li. I received my Master's degree in Software Engineering from the same institution in 2025. Previously, I obtained my Bachelor's degree in Computer Science and Technology at Beijing University of Posts and Telecommunications in 2018. Currently, my research is dedicated to integrating Artificial Intelligence (AI) into the software engineering lifecycle, with the objective of reducing the required manual effort.
+📖 I am a first-year Ph.D. student at the School of Software and Microelectronics, Peking University, under the supervision of Prof. Ying Li. I received my Master's degree in Software Engineering from the same institution in 2025. Previously, I obtained my Bachelor's degree in Computer Science and Technology at Beijing University of Posts and Telecommunications in 2018. Currently, his research is dedicated to integrating Artificial Intelligence (AI) into the software engineering lifecycle, with the objective of reducing the required manual effort.
 
 💡 My specific research interests include AIOps, encompassing anomaly detection and root cause analysis for both software and AI/LLM systems.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our paper *Agentic Memory* and *Hypothesize-Then-Verify* have been accepted by **ICSE'26**.
 - *2025.09*: &nbsp;🎉🎉 Our paper *LogAction*, *CollaborLog* and *United We Stand* have been accepted by **ASE'25**.
 - *2025.05*: &nbsp;🎉🎉 My master's thesis was recommended as an outstanding master's thesis by the review experts.
 - *2025.01*: &nbsp;🎉🎉 Our paper *Enhancing web service* have been accepted by **WWW'25**.
@@ -29,11 +30,13 @@ redirect_from:
 - *2024.12*: &nbsp;🎉🎉 Our work was reported by [Alibaba Cloud’s official WeChat account](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg).
 - *2024.11*: &nbsp;🎉🎉 Our paper *FAMOS* has been accepted by **ICSE'25** without Major Reversion (66/662). 
 - *2024.03*: &nbsp;🎉🎉 Our paper *SOIL* has been accepted by **WWW'24** (Oral Presentation).
-# 📝 Publications 
 
+# 📝 Selected Publications
+- 📑 <span style="color: #3b82f6;">*ICSE-NIER'25*</span>,  <span>Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism.</span>
+  - <span>Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, **Chiming Duan**, Minghua He, Pei Xiao and Ying Li.</span>
 
-- 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation.</span>
-  - <span>**Chiming Duan\***, Minghua He\*, Pei Xiao\*, Tong Jia, Xin Zhang, Zhewei Zhong, Xiang Luo, Yan Niu, Lingzhe Zhang, Yifan Wu, Siyu Yu, Weijie Hong, Ying Li and Gang Huang.</span>
+- 📑 <span style="color: #3b82f6;">*ICSE-SEIP'25 (CCF-A)*</span>,  <span>Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices.</span>
+  - <span>Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, **Chiming Duan**, Minghua He, Mengxi Jia and Ying Li.</span>
 
 - 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>CollaborLog: Efficient-Generalizable Log Anomaly Detection via Large-Small Model Collaboration in Software Evolution.</span>
   - <span>Pei Xiao\*, **Chiming Duan\***, Minghua He\*, Tong Jia, Yifan Wu, Jing Xu, Gege Gao, Lingzhe Zhang, Weijie Hong, Ying Li and Gang Huang.</span>
@@ -44,6 +47,9 @@ redirect_from:
 
 - 📑 <span style="color: #3b82f6;">*EMNLP-Findings'25*</span>,  <span>ICL-Bandit: Relevance Labeling in Advertisement Recommendation Systems via LLM.</span>
   - <span>Lu Wang, **Chiming Duan**, Pu Zhao, Fangkai Yang, Yong Shi, Xuefeng Luo, Bingjing Xu, Weiwei Deng, Qingwei Lin and Dongmei Zhang.</span>
+
+- 📑 <span style="color: #3b82f6;">*ISSRE'25*</span>,  <span>CSLParser: A Collaborative Framework Using Small and Large Language Models for Log Parsing.</span>
+  - <span>Weijie Hong, Yifan Wu, Lingzhe Zhang, **Chiming Duan**, Pei Xiao, Minghua He, Xixuan Yang and Ying Li.</span>
 
 - 📑 <span style="color: #3b82f6;">*FSE-IVR'25*</span>,  <span>Agentfm: Role-aware failure management for distributed databases with llm-driven multi-agents.</span>
   - <span>Lingzhe Zhang, Yunpeng Zhai, Tong Jia, Xiaosong Huang, **Chiming Duan** and Ying Li.</span>
@@ -86,15 +92,15 @@ redirect_from:
 - *2022* Beijing Outstanding Graduate. 
 
 # 📖 Educations
-- *2025.09 - Present*, Ph.D. student, Peking University. 
+- *2025.06 - Present*, Ph.D. student, Peking University. 
 - *2022.09 - 2025.06*, Master degree, Peking University.
 - *2018.09 - 2022.06*, Bachelor degree, Beijing University of Posts and Telecommunications. 
 
 # 👓 Reviewers
-- *2025*, TNNLS
+- *2025*, TNNLS, PeerJ, TCSVT
 
 
 # 💻 Internships
-- *2025.01 - Present*, Research Intern, Bytedance. China.
+- *2025.01 - 2026.02*, Research Intern, Bytedance. China.
 - *2023.10 - 2024.10*, Research Intern, Alibaba Cloud. China.
 - *2022.10 - 2023.10*, Research Intern, Microsoft Research Asia. China.
