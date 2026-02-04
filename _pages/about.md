@@ -38,6 +38,9 @@ redirect_from:
 - 📑 <span style="color: #3b82f6;">*ICSE-SEIP'25 (CCF-A)*</span>,  <span>Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices.</span>
   - <span>Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, **Chiming Duan**, Minghua He, Mengxi Jia and Ying Li.</span>
 
+- 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation.</span>
+  - <span>**Chiming Duan\***, Minghua He\*, Pei Xiao\*, Tong Jia, Xin Zhang, Zhewei Zhong, Xiang Luo, Yan Niu, Lingzhe Zhang, Yifan Wu, Siyu Yu, Weijie Hong, Ying Li and Gang Huang.</span>
+
 - 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>CollaborLog: Efficient-Generalizable Log Anomaly Detection via Large-Small Model Collaboration in Software Evolution.</span>
   - <span>Pei Xiao\*, **Chiming Duan\***, Minghua He\*, Tong Jia, Yifan Wu, Jing Xu, Gege Gao, Lingzhe Zhang, Weijie Hong, Ying Li and Gang Huang.</span>
 
