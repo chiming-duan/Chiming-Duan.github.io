@@ -15,28 +15,43 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<div id="about-me" class="intro-panel">
+  <p class="eyebrow">Ph.D. student · Peking University</p>
+  <h1>Building reliable software and AI systems.</h1>
+  <p>I am a Ph.D. student at the School of Software and Microelectronics, Peking University, advised by <strong>Prof. Ying Li</strong>. I received my master's degree in Software Engineering from Peking University in 2025 and my bachelor's degree in Computer Science and Technology from Beijing University of Posts and Telecommunications in 2022.</p>
+  <p>My research brings AI into the software engineering lifecycle, with a focus on anomaly detection, root cause analysis, and failure management for software and AI systems.</p>
+  <div class="research-tags" aria-label="Research interests"><span>AIOps</span><span>Root cause analysis</span><span>Log analysis</span><span>AI systems</span></div>
+  <div class="intro-actions"><a href="mailto:duanchiming@stu.pku.edu.cn">Email me ↗</a><a href="https://scholar.google.com/citations?user=O8dm8OcAAAAJ">Google Scholar ↗</a></div>
+</div>
 
-📖 I am a first-year Ph.D. student at the School of Software and Microelectronics, Peking University, under the supervision of Prof. Ying Li. I received my Master's degree in Software Engineering from the same institution in 2025. Previously, I obtained my Bachelor's degree in Computer Science and Technology at Beijing University of Posts and Telecommunications in 2018. Currently, his research is dedicated to integrating Artificial Intelligence (AI) into the software engineering lifecycle, with the objective of reducing the required manual effort.
+<h2 id="news">Latest news</h2>
+- *2026.09*: &nbsp;Our paper *Bifrost* has been accepted by **ASE 2026**.
+- *2026.07*: &nbsp;Four papers were presented at **FSE 2026**, including our first-author paper *AIMS*.
+- *2026.04*: &nbsp;Our papers *Agentic Memory* and *Hypothesize-Then-Verify* were presented at **ICSE 2026**.
+- *2025.12*: &nbsp;*Agentic Memory* and *Hypothesize-Then-Verify* were accepted by **ICSE 2026**.
+- *2025.09*: &nbsp;*LogAction*, *CollaborLog*, and *United We Stand* were accepted by **ASE 2025**.
+- *2025.05*: &nbsp;My master's thesis was recommended as outstanding by the review experts.
+- *2025.01*: &nbsp;Our work on web service anomaly detection was accepted by **WWW 2025**.
+- *2025.01*: &nbsp;Our paper on weakly supervised log anomaly detection was accepted by **ICSE 2025**.
+- *2024.12*: &nbsp;Our work was featured by [Alibaba Cloud’s official WeChat account](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg).
+- *2024.11*: &nbsp;*FAMOS* was accepted by **ICSE 2025**.
+- *2024.03*: &nbsp;*SOIL* was accepted by **WWW 2024** as an oral presentation.
 
-💡 My specific research interests include AIOps, encompassing anomaly detection and root cause analysis for both software and AI/LLM systems.
+<h2 id="publications">Publications</h2>
+<p class="section-note">Selected conference papers, newest first. Titles link to the conference program.</p>
 
-# 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Our paper *Agentic Memory* and *Hypothesize-Then-Verify* have been accepted by **ICSE'26**.
-- *2025.09*: &nbsp;🎉🎉 Our paper *LogAction*, *CollaborLog* and *United We Stand* have been accepted by **ASE'25**.
-- *2025.05*: &nbsp;🎉🎉 My master's thesis was recommended as an outstanding master's thesis by the review experts.
-- *2025.01*: &nbsp;🎉🎉 Our paper *Enhancing web service* have been accepted by **WWW'25**.
-- *2025.01*: &nbsp;🎉🎉 Our paper *Weakly-supervised* has been accepted by **ICSE'25**.
-- *2024.12*: &nbsp;🎉🎉 Our work was reported by [Alibaba Cloud’s official WeChat account](https://mp.weixin.qq.com/s/xJs3I9jyX-xkuUpRu7_NWg).
-- *2024.11*: &nbsp;🎉🎉 Our paper *FAMOS* has been accepted by **ICSE'25** without Major Reversion (66/662). 
-- *2024.03*: &nbsp;🎉🎉 Our paper *SOIL* has been accepted by **WWW'24** (Oral Presentation).
+<h3 class="year-heading">2026</h3>
+<div class="publication-grid">
+  <article class="publication-card featured"><div class="publication-meta"><span>FSE 2026 · IVR</span><span>First author</span></div><h4><a href="https://conf.researchr.org/details/fse-2026/fse-2026-ideas-visions-and-reflections/11/AIMS-A-Content-Aware-Resource-Management-Approach-for-AI-Assistant-Systems">AIMS: A Content-Aware Resource Management Approach for AI Assistant Systems</a></h4><p><strong>Chiming Duan</strong>, Tong Jia, Minghua He, Pei Xiao, Lingzhe Zhang, Zhewei Zhong, Xin Zhang, Ying Li.</p><a class="publication-link" href="https://doi.org/10.1145/3803437.3805562">DOI ↗</a></article>
+  <article class="publication-card"><div class="publication-meta"><span>ASE 2026 · Research</span></div><h4><a href="https://conf.researchr.org/track/ase-2026/ase-2026-research-track">Bifrost: Empowering Pretrained Language Model with Fallibility Representation for Log-Based Fault Diagnosis</a></h4><p>Minghua He, Tong Jia, Lingzhe Zhang, <strong>Chiming Duan</strong>, Xinlong Zhao, Leyi Pan, Cheng Wang, Kangjin Wang, Yinghao Yu, Liping Zhang, Yifan Wu, Ying Li.</p></article>
+  <article class="publication-card"><div class="publication-meta"><span>FSE 2026 · Industry</span></div><h4><a href="https://conf.researchr.org/details/fse-2026/fse-2026-industry-papers/5/E2E-REME-Towards-End-to-End-Microservices-Auto-Remediation-via-Experience-Simulation">E2E-REME: Towards End-to-End Microservices Auto-Remediation via Experience-Simulation Reinforcement Fine-Tuning</a></h4><p>Lingzhe Zhang, Yunpeng Zhai, Tong Jia, Minghua He, <strong>Chiming Duan</strong>, Zhaoyang Liu, Bolin Ding, Ying Li.</p></article>
+  <article class="publication-card"><div class="publication-meta"><span>FSE 2026 · IVR</span></div><h4><a href="https://conf.researchr.org/details/fse-2026/fse-2026-ideas-visions-and-reflections/8/RuntimeSlicer-Towards-Generalizable-Unified-Runtime-State-Representation-for-Failure">RuntimeSlicer: Towards Generalizable Unified Runtime State Representation for Failure Management</a></h4><p>Lingzhe Zhang, Tong Jia, Weijie Hong, Mingyu Wang, <strong>Chiming Duan</strong>, Minghua He, Rongqian Wang, Xi Peng, Meiling Wang, Nicholas Zhang, Renhai Chen, Ying Li.</p></article>
+  <article class="publication-card"><div class="publication-meta"><span>FSE 2026 · IVR</span></div><h4><a href="https://conf.researchr.org/details/fse-2026/fse-2026-ideas-visions-and-reflections/9/Efficient-Failure-Management-for-Multi-Agent-Systems-with-Reasoning-Trace-Representat">Efficient Failure Management for Multi-Agent Systems with Reasoning Trace Representation</a></h4><p>Lingzhe Zhang, Tong Jia, Mingyu Wang, Weijie Hong, <strong>Chiming Duan</strong>, Minghua He, Rongqian Wang, Xi Peng, Meiling Wang, Nicholas Zhang, Renhai Chen, Ying Li.</p></article>
+  <article class="publication-card"><div class="publication-meta"><span>ICSE 2026 · SEIP</span></div><h4><a href="https://conf.researchr.org/details/icse-2026/icse-2026-software-engineering-in-practice/4/Agentic-Memory-Enhanced-Recursive-Reasoning-for-Root-Cause-Localization-in-Microservi">Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices</a></h4><p>Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, <strong>Chiming Duan</strong>, Minghua He, Mengxi Jia, Ying Li.</p></article>
+  <article class="publication-card"><div class="publication-meta"><span>ICSE 2026 · NIER</span></div><h4><a href="https://conf.researchr.org/details/icse-2026/icse-2026-nier/5/Hypothesize-Then-Verify-Speculative-Root-Cause-Analysis-for-Microservices-with-Pathw">Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism</a></h4><p>Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, <strong>Chiming Duan</strong>, Minghua He, Pei Xiao, Ying Li.</p></article>
+</div>
 
-# 📝 Selected Publications
-- 📑 <span style="color: #3b82f6;">*ICSE-NIER'25*</span>,  <span>Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism.</span>
-  - <span>Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, **Chiming Duan**, Minghua He, Pei Xiao and Ying Li.</span>
-
-- 📑 <span style="color: #3b82f6;">*ICSE-SEIP'25 (CCF-A)*</span>,  <span>Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices.</span>
-  - <span>Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, **Chiming Duan**, Minghua He, Mengxi Jia and Ying Li.</span>
+<h3 class="year-heading">2025 and earlier</h3>
 
 - 📑 <span style="color: #3b82f6;">*ASE'25 (CCF-A)*</span>,  <span>LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation.</span>
   - <span>**Chiming Duan\***, Minghua He\*, Pei Xiao\*, Tong Jia, Xin Zhang, Zhewei Zhong, Xiang Luo, Yan Niu, Lingzhe Zhang, Yifan Wu, Siyu Yu, Weijie Hong, Ying Li and Gang Huang.</span>
@@ -89,21 +104,23 @@ redirect_from:
 
 
 
-# 🎖 Honors and Awards
-- *2025* Outstanding Graduation Thesis. 
-- *2023* Peking University Excellent Student Award. 
-- *2022* Beijing Outstanding Graduate. 
-
-# 📖 Educations
-- *2025.06 - Present*, Ph.D. student, Peking University. 
-- *2022.09 - 2025.06*, Master degree, Peking University.
-- *2018.09 - 2022.06*, Bachelor degree, Beijing University of Posts and Telecommunications. 
-
-# 👓 Reviewers
+<h2 id="service">Academic service</h2>
+<h3>Peer review</h3>
+- *2026*, ICWS, TSE
 - *2025*, TNNLS, PeerJ, TCSVT
 
+<h2 id="experience">Experience & recognition</h2>
+<h3>Education</h3>
+- *2025.06 - Present*, Ph.D. student, Peking University.
+- *2022.09 - 2025.06*, Master's degree, Peking University.
+- *2018.09 - 2022.06*, Bachelor's degree, Beijing University of Posts and Telecommunications.
 
-# 💻 Internships
-- *2025.01 - 2026.02*, Research Intern, Bytedance. China.
-- *2023.10 - 2024.10*, Research Intern, Alibaba Cloud. China.
-- *2022.10 - 2023.10*, Research Intern, Microsoft Research Asia. China.
+<h3>Research internships</h3>
+- *2025.01 - 2026.02*, Research intern, ByteDance, China.
+- *2023.10 - 2024.10*, Research intern, Alibaba Cloud, China.
+- *2022.10 - 2023.10*, Research intern, Microsoft Research Asia, China.
+
+<h3>Honors and awards</h3>
+- *2025* Outstanding Graduation Thesis.
+- *2023* Peking University Excellent Student Award.
+- *2022* Beijing Outstanding Graduate.
