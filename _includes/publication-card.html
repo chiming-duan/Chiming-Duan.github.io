@@ -4,7 +4,7 @@
     <span>{{ paper.venue | escape }}</span>
     {% if paper.role %}<span class="author-role">{{ paper.role | escape }}</span>{% endif %}
   </div>
-  <h4><a href="{% if paper.url %}{{ paper.url | escape }}{% else %}https://doi.org/{{ paper.doi | escape }}{% endif %}">{{ paper.title | escape }}</a></h4>
+  <h4>{{ paper.title | escape }}</h4>
   <p>{{ paper.authors }}</p>
   {% if paper.doi_title %}<p class="publication-note">DOI record title: {{ paper.doi_title | escape }}</p>{% endif %}
   <a class="publication-link" href="https://doi.org/{{ paper.doi | escape }}">DOI: {{ paper.doi | escape }} ↗</a>
