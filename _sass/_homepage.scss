@@ -61,7 +61,9 @@ a:hover { color: #104b56; }
 .publication-card h4 a:hover { color: #176a74; text-decoration: underline; }
 .publication-card p { margin: 0; color: #64747a; font-size: .81rem; line-height: 1.55; }
 .publication-card strong { color: #2c5961; }
-.publication-card .publication-link { align-self: start; margin-top: .85rem; color: #176a74; font-size: .8rem; font-weight: 700; text-decoration: none; }
+.publication-meta .author-role { color: #8d532f; background: #fbefe5; }
+.publication-card .publication-note { margin-top: .65rem; color: #71828a; font-size: .75rem; }
+.publication-card .publication-link { align-self: start; max-width: 100%; margin-top: .85rem; color: #176a74; font-size: .8rem; font-weight: 700; text-decoration: none; overflow-wrap: anywhere; }
 
 .year-heading + ul { margin: 0; padding: 0; list-style: none; }
 .year-heading + ul > li { margin: 0 0 .55rem; padding: .85rem 1rem; background: #fff; border: 1px solid #e7ecea; border-radius: 10px; line-height: 1.5; }

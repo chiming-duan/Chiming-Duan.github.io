@@ -1,0 +1,203 @@
+# DOI metadata verified against Crossref. Author roles retain the original homepage's equal-contribution markers.
+- title: "AIMS: A Content-Aware Resource Management Approach for AI Assistant Systems"
+  year: 2026
+  sort_date: "2026-07-05"
+  venue: "FSE 2026 · IVR"
+  authors: "<strong>Chiming Duan</strong>, Tong Jia, Minghua He, Pei Xiao, Lingzhe Zhang, Zhewei Zhong, Xin Zhang, Ying Li."
+  priority: true
+  doi: "10.1145/3803437.3805562"
+  role: "First author"
+  featured: true
+  url: "https://conf.researchr.org/details/fse-2026/fse-2026-ideas-visions-and-reflections/11/AIMS-A-Content-Aware-Resource-Management-Approach-for-AI-Assistant-Systems"
+
+- title: "Bifrost: Empowering Pretrained Language Model with Fallibility Representation for Log-Based Fault Diagnosis"
+  year: 2026
+  sort_date: "2026-10-07"
+  venue: "ASE 2026 · Research"
+  authors: "Minghua He, Tong Jia, Lingzhe Zhang, <strong>Chiming Duan</strong>, Xinlong Zhao, Leyi Pan, Cheng Wang, Kangjin Wang, Yinghao Yu, Liping Zhang, Yifan Wu, Ying Li."
+  priority: false
+  doi: "10.1145/3832783.3834433"
+  url: "https://conf.researchr.org/track/ase-2026/ase-2026-research-track"
+
+- title: "E2E-REME: Towards End-to-End Microservices Auto-Remediation via Experience-Simulation Reinforcement Fine-Tuning"
+  year: 2026
+  sort_date: "2026-07-05"
+  venue: "FSE 2026 · Industry"
+  authors: "Lingzhe Zhang, Yunpeng Zhai, Tong Jia, Minghua He, <strong>Chiming Duan</strong>, Zhaoyang Liu, Bolin Ding, Ying Li."
+  priority: false
+  doi: "10.1145/3803437.3805206"
+  url: "https://conf.researchr.org/details/fse-2026/fse-2026-industry-papers/5/E2E-REME-Towards-End-to-End-Microservices-Auto-Remediation-via-Experience-Simulation"
+
+- title: "RuntimeSlicer: Towards Generalizable Unified Runtime State Representation for Failure Management"
+  year: 2026
+  sort_date: "2026-07-05"
+  venue: "FSE 2026 · IVR"
+  authors: "Lingzhe Zhang, Tong Jia, Weijie Hong, Mingyu Wang, <strong>Chiming Duan</strong>, Minghua He, Rongqian Wang, Xi Peng, Meiling Wang, Nicholas Zhang, Renhai Chen, Ying Li."
+  priority: false
+  doi: "10.1145/3803437.3805559"
+  url: "https://conf.researchr.org/details/fse-2026/fse-2026-ideas-visions-and-reflections/8/RuntimeSlicer-Towards-Generalizable-Unified-Runtime-State-Representation-for-Failure"
+
+- title: "Efficient Failure Management for Multi-Agent Systems with Reasoning Trace Representation"
+  year: 2026
+  sort_date: "2026-07-05"
+  venue: "FSE 2026 · IVR"
+  authors: "Lingzhe Zhang, Tong Jia, Mingyu Wang, Weijie Hong, <strong>Chiming Duan</strong>, Minghua He, Rongqian Wang, Xi Peng, Meiling Wang, Nicholas Zhang, Renhai Chen, Ying Li."
+  priority: false
+  doi: "10.1145/3803437.3805560"
+  url: "https://conf.researchr.org/details/fse-2026/fse-2026-ideas-visions-and-reflections/9/Efficient-Failure-Management-for-Multi-Agent-Systems-with-Reasoning-Trace-Representat"
+
+- title: "Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices"
+  year: 2026
+  sort_date: "2026-04-12"
+  venue: "ICSE 2026 · SEIP"
+  authors: "Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, <strong>Chiming Duan</strong>, Minghua He, Mengxi Jia, Ying Li."
+  priority: false
+  doi: "10.1145/3786583.3786853"
+  url: "https://conf.researchr.org/details/icse-2026/icse-2026-software-engineering-in-practice/4/Agentic-Memory-Enhanced-Recursive-Reasoning-for-Root-Cause-Localization-in-Microservi"
+
+- title: "Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism"
+  year: 2026
+  sort_date: "2026-04-12"
+  venue: "ICSE 2026 · NIER"
+  authors: "Lingzhe Zhang, Tong Jia, Yunpeng Zhai, Leyi Pan, <strong>Chiming Duan</strong>, Minghua He, Pei Xiao, Ying Li."
+  priority: false
+  doi: "10.1145/3786582.3786803"
+  url: "https://conf.researchr.org/details/icse-2026/icse-2026-nier/5/Hypothesize-Then-Verify-Speculative-Root-Cause-Analysis-for-Microservices-with-Pathw"
+
+- title: "LogAction: Consistent Cross-system Anomaly Detection through Logs via Active Domain Adaptation"
+  year: 2025
+  sort_date: "2025-11-16"
+  venue: "ASE 2025 · CCF-A"
+  authors: "<strong>Chiming Duan*</strong>, Minghua He*, Pei Xiao*, Tong Jia, Xin Zhang, Zhewei Zhong, Xiang Luo, Yan Niu, Lingzhe Zhang, Yifan Wu, Siyu Yu, Weijie Hong, Ying Li and Gang Huang."
+  priority: true
+  doi: "10.1109/ase63991.2025.00064"
+  role: "Co-first author"
+
+- title: "CollaborLog: Efficient-Generalizable Log Anomaly Detection via Large-Small Model Collaboration in Software Evolution"
+  year: 2025
+  sort_date: "2025-11-16"
+  venue: "ASE 2025 · CCF-A"
+  authors: "Pei Xiao*, <strong>Chiming Duan*</strong>, Minghua He*, Tong Jia, Yifan Wu, Jing Xu, Gege Gao, Lingzhe Zhang, Weijie Hong, Ying Li and Gang Huang."
+  priority: true
+  doi: "10.1109/ase63991.2025.00097"
+  role: "Co-first author"
+  url: "https://conf.researchr.org/details/ase-2025/ase-2025-papers/160/CollaborLog-Efficient-Generalizable-Log-Anomaly-Detection-via-Large-Small-Model-Coll"
+  doi_title: "CoorLog: Efficient-Generalizable Log Anomaly Detection via Adaptive Coordinator in Software Evolution"
+
+- title: "United We Stand: Towards End-to-End Log-based Fault Diagnosis via Interactive Multi-Task Learning"
+  year: 2025
+  sort_date: "2025-11-16"
+  venue: "ASE 2025 · CCF-A"
+  authors: "Minghua He*, <strong>Chiming Duan*</strong>, Pei Xiao*, Tong Jia, Siyu Yu, Lingzhe Zhang, Weijie Hong, Jing Han, Yifan Wu, Ying Li and Gang Huang."
+  priority: true
+  doi: "10.1109/ase63991.2025.00061"
+  role: "Co-first author"
+
+- title: "ICL-Bandit: Relevance Labeling in Advertisement Recommendation Systems via LLM"
+  year: 2025
+  sort_date: "2025-11-01"
+  venue: "EMNLP · Findings 2025"
+  authors: "Lu Wang, <strong>Chiming Duan</strong>, Pu Zhao, Fangkai Yang, Yong Shi, Xuefeng Luo, Bingjing Xu, Weiwei Deng, Qingwei Lin and Dongmei Zhang."
+  priority: false
+  doi: "10.18653/v1/2025.findings-emnlp.1273"
+
+- title: "CSLParser: A Collaborative Framework Using Small and Large Language Models for Log Parsing"
+  year: 2025
+  sort_date: "2025-10-21"
+  venue: "ISSRE 2025"
+  authors: "Weijie Hong, Yifan Wu, Lingzhe Zhang, <strong>Chiming Duan</strong>, Pei Xiao, Minghua He, Xixuan Yang and Ying Li."
+  priority: false
+  doi: "10.1109/issre66568.2025.00020"
+
+- title: "Agentfm: Role-aware failure management for distributed databases with llm-driven multi-agents"
+  year: 2025
+  sort_date: "2025-06-23"
+  venue: "FSE 2025"
+  authors: "Lingzhe Zhang, Yunpeng Zhai, Tong Jia, Xiaosong Huang, <strong>Chiming Duan</strong> and Ying Li."
+  priority: false
+  doi: "10.1145/3696630.3728492"
+
+- title: "CLSLog: Collaborating Large and Small Models for Log-based Anomaly Detection"
+  year: 2025
+  sort_date: "2025-06-23"
+  venue: "FSE 2025"
+  authors: "Pei Xiao, Tong Jia, <strong>Chiming Duan</strong>, Minghua He, Weijie Hong, Xixuan Yang, Yihan Wu, Ying Li and Gang Huang."
+  priority: false
+  doi: "10.1145/3696630.3728524"
+
+- title: "Enhancing web service anomaly detection via fine-grained multi-modal association and frequency domain analysis"
+  year: 2025
+  sort_date: "2025-05-08"
+  venue: "WWW 2025 · CCF-A"
+  authors: "Xixuan Yang, Xin Huang, <strong>Chiming Duan</strong>, Tong Jia, Shandong Dong, Ying Li and Gang Huang."
+  priority: false
+  doi: "10.1145/3701716.3715221"
+
+- title: "EagerLog: Active Learning Enhanced Retrieval Augmented Generation for Log-based Anomaly Detection"
+  year: 2025
+  sort_date: "2025-04-06"
+  venue: "ICASSP 2025 · CCF-B"
+  authors: "<strong>Chiming Duan</strong>, Tong Jia, Yong Yang, Guiyang Liu, Jinbu Liu, Huxing Zhang, Qi Zhou, Ying Li and Gang Huang."
+  priority: true
+  doi: "10.1109/icassp49660.2025.10888663"
+  role: "First author"
+
+- title: "FAMOS: Fault diagnosis for Microservice Systems through Effective Multi-modal Data Fusion"
+  year: 2025
+  sort_date: "2025-04-26"
+  venue: "ICSE 2025 · CCF-A"
+  authors: "<strong>Chiming Duan</strong>, Yong Yang, Tong Jia, Guiyang Liu, Jinbu Liu, Huxing Zhang, Qi Zhou, Ying Li and Gang Huang."
+  priority: true
+  doi: "10.1109/icse55347.2025.00073"
+  role: "First author"
+
+- title: "Weakly-Supervised Log-Based Anomaly Detection with Inexact Labels via Multi-Instance Learning"
+  year: 2025
+  sort_date: "2025-04-26"
+  venue: "ICSE 2025 · CCF-A"
+  authors: "Minghua He, Tong Jia, <strong>Chiming Duan</strong>, Huaqian Cai, Ying Li and Gang Huang."
+  priority: false
+  doi: "10.1109/icse55347.2025.00189"
+
+- title: "Logcae: An approach for log-based anomaly detection with active learning and contrastive learning"
+  year: 2024
+  sort_date: "2024-10-28"
+  venue: "ISSRE 2024 · CCF-B"
+  authors: "Pei Xiao, Tong Jia, <strong>Chiming Duan</strong>, Huaqian Cai, Ying Li and Gang Huang."
+  priority: false
+  doi: "10.1109/issre62328.2024.00024"
+
+- title: "Llmelog: An approach for anomaly detection based on llm-enriched log events"
+  year: 2024
+  sort_date: "2024-10-28"
+  venue: "ISSRE 2024 · CCF-B"
+  authors: "Minghua He, Tong Jia, <strong>Chiming Duan</strong>, Huaqian Cai, Ying Li and Gang Huang."
+  priority: false
+  doi: "10.1109/issre62328.2024.00023"
+
+- title: "Soil: Score conditioned diffusion model for imbalanced cloud failure prediction"
+  year: 2024
+  sort_date: "2024-05-13"
+  venue: "WWW 2024 · CCF-A"
+  authors: "<strong>Chiming Duan</strong>, Fangkai Yang, Pu Zhao, Lingling Zheng, Yash Dagli, Yudong Liu, Qingwei Lin and Dongmei Zhang."
+  priority: true
+  doi: "10.1145/3589335.3648303"
+  role: "First author"
+
+- title: "Afalog: A general augmentation framework for log-based anomaly detection with active learning"
+  year: 2023
+  sort_date: "2023-10-09"
+  venue: "ISSRE 2023 · CCF-B"
+  authors: "<strong>Chiming Duan</strong>, Tong Jia, Huaqian Cai, Ying Li and Gang Huang."
+  priority: true
+  doi: "10.1109/issre59848.2023.00068"
+  role: "First author"
+
+- title: "Aclog: An approach to detecting anomalies from system logs with active learning"
+  year: 2023
+  sort_date: "2023-07-01"
+  venue: "ICWS 2023 · CCF-B"
+  authors: "<strong>Chiming Duan</strong>, Tong Jia, Ying Li and Gang Huang."
+  priority: true
+  doi: "10.1109/icws60048.2023.00062"
+  role: "First author"
