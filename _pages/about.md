@@ -25,6 +25,7 @@ redirect_from:
 </div>
 
 <h2 id="news">Latest news</h2>
+- *2026.10*: &nbsp;Our new survey, [Anomaly Detection in LLM-Based Systems: A Survey](https://method-notes.github.io/LLM-Anomaly-Detection-Survey/), is now available! We organize existing methods into **Boundary-Modeling AD** and **Alignment-Based AD**, covering five method families. Explore the preprint and an interactive directory of 181 taxonomy examples on the project website.
 - *2026.09*: &nbsp;Our paper *Bifrost* has been accepted by **ASE 2026**.
 - *2026.07*: &nbsp;Four papers were presented at **FSE 2026**, including our first-author paper *AIMS*.
 - *2026.04*: &nbsp;Our papers *Agentic Memory* and *Hypothesize-Then-Verify* were presented at **ICSE 2026**.
