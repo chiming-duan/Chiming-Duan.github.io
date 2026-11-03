@@ -72,6 +72,9 @@ a:hover { color: #104b56; }
 .page__content > h3:not(.year-heading) + ul { margin-left: 0; padding-left: 0; list-style: none; }
 .page__content > h3:not(.year-heading) + ul li { padding: .34rem 0; }
 
+.page__content img.experience-logo { display: inline-block; width: 24px; height: 24px; max-width: none; margin: 0 .5rem 0 0; object-fit: contain; vertical-align: -.28em; border-radius: 0; }
+.page__content img.experience-logo--microsoft { object-fit: cover; object-position: left center; }
+
 @media (min-width: 925px) {
   #main { display: grid; grid-template-columns: 245px minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
   #main > .sidebar, #main > .page { float: none; width: auto; margin: 0; padding: 0; }

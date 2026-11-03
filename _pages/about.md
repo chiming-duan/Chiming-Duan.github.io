@@ -61,14 +61,14 @@ redirect_from:
 
 <h2 id="experience">Experience & recognition</h2>
 <h3>Education</h3>
-- *2025.06 - Present*, Ph.D. student, Peking University.
-- *2022.09 - 2025.06*, Master's degree, Peking University.
-- *2018.09 - 2022.06*, Bachelor's degree, Beijing University of Posts and Telecommunications.
+- <img class="experience-logo" src="{{ 'images/logos/peking-university.png' | relative_url }}" alt="Peking University logo" width="24" height="24" loading="lazy" decoding="async"> *2025.06 - Present*, Ph.D. student, Peking University.
+- <img class="experience-logo" src="{{ 'images/logos/peking-university.png' | relative_url }}" alt="Peking University logo" width="24" height="24" loading="lazy" decoding="async"> *2022.09 - 2025.06*, Master's degree, Peking University.
+- <img class="experience-logo" src="{{ 'images/logos/bupt.png' | relative_url }}" alt="Beijing University of Posts and Telecommunications logo" width="24" height="24" loading="lazy" decoding="async"> *2018.09 - 2022.06*, Bachelor's degree, Beijing University of Posts and Telecommunications.
 
 <h3>Research internships</h3>
-- *2025.01 - 2026.02*, Research intern, ByteDance, China.
-- *2023.10 - 2024.10*, Research intern, Alibaba Cloud, China.
-- *2022.10 - 2023.10*, Research intern, Microsoft Research Asia, China.
+- <img class="experience-logo" src="{{ 'images/logos/bytedance.png' | relative_url }}" alt="ByteDance logo" width="24" height="24" loading="lazy" decoding="async"> *2025.01 - 2026.02*, Research intern, ByteDance, China.
+- <img class="experience-logo" src="{{ 'images/logos/alibaba-cloud.svg' | relative_url }}" alt="Alibaba Cloud logo" width="24" height="24" loading="lazy" decoding="async"> *2023.10 - 2024.10*, Research intern, Alibaba Cloud, China.
+- <img class="experience-logo experience-logo--microsoft" src="{{ 'images/logos/microsoft.png' | relative_url }}" alt="Microsoft logo" width="24" height="24" loading="lazy" decoding="async"> *2022.10 - 2023.10*, Research intern, Microsoft Research Asia, China.
 
 <h3>Honors and awards</h3>
 - *2025* Outstanding Graduation Thesis.
