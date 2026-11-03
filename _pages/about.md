@@ -25,6 +25,7 @@ redirect_from:
 </div>
 
 <h2 id="news">Latest news</h2>
+- *2026.10*: &nbsp;Our survey, [A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/abs/2508.08712), has been accepted by **ACM Computing Surveys (CSUR)**.
 - *2026.10*: &nbsp;Our new survey, [Anomaly Detection in LLM-Based Systems: A Survey](https://method-notes.github.io/LLM-Anomaly-Detection-Survey/), is now available! We organize existing methods into **Boundary-Modeling AD** and **Alignment-Based AD**, covering five method families. Explore the preprint and an interactive directory of 181 taxonomy examples on the project website.
 - *2026.09*: &nbsp;Our paper *Bifrost* has been accepted by **ASE 2026**.
 - *2026.07*: &nbsp;Four papers were presented at **FSE 2026**, including our first-author paper *AIMS*.
@@ -55,7 +56,7 @@ redirect_from:
 
 <h2 id="service">Academic service</h2>
 <h3>Peer review</h3>
-- *2026*, ICWS, TSE
+- *2026*, ICWS, TSE, WWW
 - *2025*, TNNLS, PeerJ, TCSVT
 
 <h2 id="experience">Experience & recognition</h2>

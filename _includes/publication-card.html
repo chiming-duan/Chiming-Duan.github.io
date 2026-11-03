@@ -7,5 +7,5 @@
   <h4>{{ paper.title | escape }}</h4>
   <p>{{ paper.authors }}</p>
   {% if paper.doi_title %}<p class="publication-note">DOI record title: {{ paper.doi_title | escape }}</p>{% endif %}
-  <a class="publication-link" href="https://doi.org/{{ paper.doi | escape }}">DOI: {{ paper.doi | escape }} ↗</a>
+  <a class="publication-link" href="https://doi.org/{{ paper.doi | escape }}">{{ paper.doi_label | default: "DOI" | escape }}: {{ paper.doi | escape }} ↗</a>
 </article>
