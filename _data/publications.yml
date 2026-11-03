@@ -1,13 +1,14 @@
 # DOI metadata verified against Crossref. Author roles retain the original homepage's equal-contribution markers.
+# display_order records the approved category/authorship priority, newest first within each group.
 - title: "AIMS: A Content-Aware Resource Management Approach for AI Assistant Systems"
   year: 2026
   sort_date: "2026-07-05"
-  venue: "FSE 2026 · IVR"
+  venue: "FSE 2026"
   authors: "<strong>Chiming Duan</strong>, Tong Jia, Minghua He, Pei Xiao, Lingzhe Zhang, Zhewei Zhong, Xin Zhang, Ying Li."
   priority: true
+  display_order: 4
   doi: "10.1145/3803437.3805562"
   role: "First author"
-  featured: true
   url: "https://conf.researchr.org/details/fse-2026/fse-2026-ideas-visions-and-reflections/11/AIMS-A-Content-Aware-Resource-Management-Approach-for-AI-Assistant-Systems"
 
 - title: "Bifrost: Empowering Pretrained Language Model with Fallibility Representation for Log-Based Fault Diagnosis"
@@ -31,7 +32,7 @@
 - title: "RuntimeSlicer: Towards Generalizable Unified Runtime State Representation for Failure Management"
   year: 2026
   sort_date: "2026-07-05"
-  venue: "FSE 2026 · IVR"
+  venue: "FSE 2026"
   authors: "Lingzhe Zhang, Tong Jia, Weijie Hong, Mingyu Wang, <strong>Chiming Duan</strong>, Minghua He, Rongqian Wang, Xi Peng, Meiling Wang, Nicholas Zhang, Renhai Chen, Ying Li."
   priority: false
   doi: "10.1145/3803437.3805559"
@@ -40,7 +41,7 @@
 - title: "Efficient Failure Management for Multi-Agent Systems with Reasoning Trace Representation"
   year: 2026
   sort_date: "2026-07-05"
-  venue: "FSE 2026 · IVR"
+  venue: "FSE 2026"
   authors: "Lingzhe Zhang, Tong Jia, Mingyu Wang, Weijie Hong, <strong>Chiming Duan</strong>, Minghua He, Rongqian Wang, Xi Peng, Meiling Wang, Nicholas Zhang, Renhai Chen, Ying Li."
   priority: false
   doi: "10.1145/3803437.3805560"
@@ -71,7 +72,9 @@
   authors: "<strong>Chiming Duan*</strong>, Minghua He*, Pei Xiao*, Tong Jia, Xin Zhang, Zhewei Zhong, Xiang Luo, Yan Niu, Lingzhe Zhang, Yifan Wu, Siyu Yu, Weijie Hong, Ying Li and Gang Huang."
   priority: true
   doi: "10.1109/ase63991.2025.00064"
-  role: "Co-first author"
+  role: "First author"
+  display_order: 1
+  featured: true
 
 - title: "CollaborLog: Efficient-Generalizable Log Anomaly Detection via Large-Small Model Collaboration in Software Evolution"
   year: 2025
@@ -81,6 +84,7 @@
   priority: true
   doi: "10.1109/ase63991.2025.00097"
   role: "Co-first author"
+  display_order: 6
   url: "https://conf.researchr.org/details/ase-2025/ase-2025-papers/160/CollaborLog-Efficient-Generalizable-Log-Anomaly-Detection-via-Large-Small-Model-Coll"
   doi_title: "CoorLog: Efficient-Generalizable Log Anomaly Detection via Adaptive Coordinator in Software Evolution"
 
@@ -92,6 +96,7 @@
   priority: true
   doi: "10.1109/ase63991.2025.00061"
   role: "Co-first author"
+  display_order: 5
 
 - title: "ICL-Bandit: Relevance Labeling in Advertisement Recommendation Systems via LLM"
   year: 2025
@@ -141,6 +146,7 @@
   priority: true
   doi: "10.1109/icassp49660.2025.10888663"
   role: "First author"
+  display_order: 7
 
 - title: "FAMOS: Fault diagnosis for Microservice Systems through Effective Multi-modal Data Fusion"
   year: 2025
@@ -150,6 +156,7 @@
   priority: true
   doi: "10.1109/icse55347.2025.00073"
   role: "First author"
+  display_order: 2
 
 - title: "Weakly-Supervised Log-Based Anomaly Detection with Inexact Labels via Multi-Instance Learning"
   year: 2025
@@ -183,6 +190,7 @@
   priority: true
   doi: "10.1145/3589335.3648303"
   role: "First author"
+  display_order: 3
 
 - title: "Afalog: A general augmentation framework for log-based anomaly detection with active learning"
   year: 2023
@@ -192,6 +200,7 @@
   priority: true
   doi: "10.1109/issre59848.2023.00068"
   role: "First author"
+  display_order: 8
 
 - title: "Aclog: An approach to detecting anomalies from system logs with active learning"
   year: 2023
@@ -201,3 +210,4 @@
   priority: true
   doi: "10.1109/icws60048.2023.00062"
   role: "First author"
+  display_order: 9

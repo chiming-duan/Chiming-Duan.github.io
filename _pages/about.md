@@ -39,9 +39,9 @@ redirect_from:
 - *2024.03*: &nbsp;*SOIL* was accepted by **WWW 2024** as an oral presentation.
 
 <h2 id="publications">Publications</h2>
-<p class="section-note">First- and co-first-author papers are shown first, newest first within each group. * denotes equal contribution.</p>
+<p class="section-note">First- and co-first-author papers are shown first, ordered by paper category and authorship, newest first within each group. * denotes equal contribution.</p>
 
-{% assign priority_papers = site.data.publications | where: "priority", true | sort: "sort_date" | reverse %}
+{% assign priority_papers = site.data.publications | where: "priority", true | sort: "display_order" %}
 {% assign other_papers = site.data.publications | where: "priority", false | sort: "sort_date" | reverse %}
 
 <h3 class="year-heading" id="first-author-publications">First &amp; co-first author papers</h3>
